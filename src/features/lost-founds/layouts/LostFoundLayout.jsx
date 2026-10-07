@@ -1,4 +1,3 @@
-```jsx
 import { useCallback, useEffect, useState } from 'react';
 import { Navigate, Outlet, useNavigate } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
@@ -143,4 +142,3 @@ export default function LostFoundLayout() {
     </div>
   );
 }
-```
